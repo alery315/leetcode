@@ -54,21 +54,32 @@ public class MaxProfit {
         int len = prices.length;
         for (int i = 0; i < len - 1; i++) {
             int temp = last + prices[i + 1] - prices[i];
-            last = max(0, temp);
-            profit = max(profit, last);
+            last = Math.max(0, temp);
+            profit = Math.max(profit, last);
         }
         return profit;
     }
 
-    public static int max(int a, int b) {
-        return a > b ? a : b;
+    public static int maxProfit4(int[] prices) {
+        int len = prices.length;
+        if (len == 1) return 0;
+
+        int res = 0;
+        int min_value = prices[0];
+
+        for (int i = 0; i < len; i++) {
+            min_value = Math.min(min_value, prices[i]);
+            res = Math.max(res, prices[i] - min_value);
+        }
+        return res;
     }
+
 
     public static void main(String[] args) {
 
         int[] nums = new int[]{10, 2, 6, 1, 2, 1, 9, 1};
 
-        System.out.println(maxProfit3(nums));
+        System.out.println(maxProfit4(nums));
 
     }
 
