@@ -1,7 +1,5 @@
 package string;
 
-import java.time.temporal.Temporal;
-
 public class CountAndSay {
 
     public static String countAndSay(int n) {
