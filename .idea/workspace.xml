@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3af1fa23-21f2-47fc-b200-2cc39cb06ae0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/IsValidSudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/FirstBadVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/InorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/RotateMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/string/CountAndSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/string/CountAndSay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/CountAndSay.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,24 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/MaxDepth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="59" selection-start-line="13" selection-start-column="8" selection-end-line="17" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tree/IsSymmetric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/LevelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,14 +80,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/tree/InorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="420">
+              <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/Rotate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-420">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array/RotateMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -140,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/array/SingleNumber.java" />
         <option value="$PROJECT_DIR$/src/array/PlusOne.java" />
         <option value="$PROJECT_DIR$/src/array/Intersect.java" />
         <option value="$PROJECT_DIR$/src/array/MoveZeroes.java" />
@@ -191,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/array/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/array/IsValidSudoku.java" />
         <option value="$PROJECT_DIR$/src/tree/InorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/array/RotateMatrix.java" />
       </list>
     </option>
   </component>
@@ -200,11 +194,11 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="515" />
-    <option name="y" value="-30" />
-    <option name="width" value="974" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="244" />
+    <option name="y" value="-19" />
+    <option name="width" value="779" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -223,6 +217,12 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -273,20 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InorderTraversal">
-    <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.CountAndSay" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RotateMatrix">
     <configuration name="FirstBadVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.FirstBadVersion" />
       <module name="leetcode" />
@@ -313,19 +300,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LevelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.LevelOrder" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.Merge" />
       <module name="leetcode" />
@@ -339,20 +313,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Rotate" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.RotateMatrix" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.LevelOrder" />
-      <item itemvalue="Application.CountAndSay" />
       <item itemvalue="Application.Merge" />
       <item itemvalue="Application.FirstBadVersion" />
       <item itemvalue="Application.InorderTraversal" />
+      <item itemvalue="Application.Rotate" />
+      <item itemvalue="Application.RotateMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateMatrix" />
+        <item itemvalue="Application.Rotate" />
         <item itemvalue="Application.InorderTraversal" />
         <item itemvalue="Application.FirstBadVersion" />
         <item itemvalue="Application.Merge" />
-        <item itemvalue="Application.CountAndSay" />
-        <item itemvalue="Application.LevelOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +378,7 @@
       <workItem from="1571987851654" duration="13564000" />
       <workItem from="1572263189230" duration="31778000" />
       <workItem from="1572869547256" duration="8009000" />
-      <workItem from="1572957295611" duration="6166000" />
+      <workItem from="1572957295611" duration="11123000" />
     </task>
     <task id="LOCAL-00001" summary="push ok">
       <created>1571988039959</created>
@@ -391,13 +391,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136703000" />
+    <option name="totallyTimeSpent" value="141660000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17158177" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -406,14 +406,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.35683298" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3045326" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.318872" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40084985" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2733189" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.20824295" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.24593717" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.18763557" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -464,24 +464,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/string/IsAnagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/MoveZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Rotate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -874,11 +860,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/InorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="420">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/Rotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
