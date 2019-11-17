@@ -1,4 +1,4 @@
-package midium_array_string;
+package dp;
 
 
 public class CoinChange {
