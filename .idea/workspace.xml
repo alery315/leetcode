@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3af1fa23-21f2-47fc-b200-2cc39cb06ae0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedList/HasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midium_array_string/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midium_array_string/SetZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midium_array_string/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/SortedArrayToBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/FirstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/FirstBadVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/tree/IsValidBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/IsValidBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/IsValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/IsValidBST.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,19 +23,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/LongestCommonPrefix.java">
+        <entry file="file://$PROJECT_DIR$/src/tree/SortedArrayToBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="40" />
+            <state relative-caret-position="436">
+              <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/HasCycle.java">
+        <entry file="file://$PROJECT_DIR$/src/midium_array_string/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+            <state relative-caret-position="400">
+              <caret line="26" column="83" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="26" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/midium_array_string/SetZeroes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,34 +56,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sort/FirstBadVersion.java">
+        <entry file="file://$PROJECT_DIR$/src/midium_array_string/CoinChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="41" column="63" selection-start-line="41" selection-start-column="63" selection-end-line="41" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/IsPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="61" column="26" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="61" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/DeleteNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-              <folding>
-                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,10 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/array/MoveZeroes.java" />
-        <option value="$PROJECT_DIR$/src/string/ReverseString.java" />
-        <option value="$PROJECT_DIR$/src/string/Reverse.java" />
-        <option value="$PROJECT_DIR$/src/string/FirstUniqChar.java" />
         <option value="$PROJECT_DIR$/src/string/IsAnagram.java" />
         <option value="$PROJECT_DIR$/src/string/IsPalindrome.java" />
         <option value="$PROJECT_DIR$/src/array/Rotate.java" />
@@ -128,7 +126,6 @@
         <option value="$PROJECT_DIR$/src/MaxDepth.java" />
         <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/tree/MaxDepth.java" />
-        <option value="$PROJECT_DIR$/src/tree/IsValidBST.java" />
         <option value="$PROJECT_DIR$/src/tree/IsSymmetric.java" />
         <option value="$PROJECT_DIR$/src/tree/LevelOrder.java" />
         <option value="$PROJECT_DIR$/src/string/CountAndSay.java" />
@@ -140,6 +137,11 @@
         <option value="$PROJECT_DIR$/src/string/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/linkedList/HasCycle.java" />
         <option value="$PROJECT_DIR$/src/sort/FirstBadVersion.java" />
+        <option value="$PROJECT_DIR$/src/tree/IsValidBST.java" />
+        <option value="$PROJECT_DIR$/src/tree/SortedArrayToBST.java" />
+        <option value="$PROJECT_DIR$/src/midium_array_string/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/midium_array_string/SetZeroes.java" />
+        <option value="$PROJECT_DIR$/src/midium_array_string/CoinChange.java" />
       </list>
     </option>
   </component>
@@ -177,13 +179,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="midium_array_string" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,13 +218,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstBadVersion">
-    <configuration name="FirstBadVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.FirstBadVersion" />
+  <component name="RunManager" selected="Application.CoinChange">
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midium_array_string.CoinChange" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="midium_array_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HasCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.HasCycle" />
+    <configuration name="IsValidBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.IsValidBST" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedList.*" />
+          <option name="PATTERN" value="tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.LongestCommonPrefix" />
+    <configuration name="SetZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midium_array_string.SetZeroes" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="midium_array_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Rotate" />
+    <configuration name="SortedArrayToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.SortedArrayToBST" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.RotateMatrix" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midium_array_string.ThreeSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="midium_array_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,19 +285,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Rotate" />
-      <item itemvalue="Application.RotateMatrix" />
-      <item itemvalue="Application.LongestCommonPrefix" />
-      <item itemvalue="Application.HasCycle" />
-      <item itemvalue="Application.FirstBadVersion" />
+      <item itemvalue="Application.IsValidBST" />
+      <item itemvalue="Application.SortedArrayToBST" />
+      <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.SetZeroes" />
+      <item itemvalue="Application.CoinChange" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstBadVersion" />
-        <item itemvalue="Application.HasCycle" />
-        <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.RotateMatrix" />
-        <item itemvalue="Application.Rotate" />
+        <item itemvalue="Application.CoinChange" />
+        <item itemvalue="Application.SetZeroes" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.SortedArrayToBST" />
+        <item itemvalue="Application.IsValidBST" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +323,7 @@
       <workItem from="1571987851654" duration="13564000" />
       <workItem from="1572263189230" duration="31778000" />
       <workItem from="1572869547256" duration="8009000" />
-      <workItem from="1572957295611" duration="18683000" />
+      <workItem from="1572957295611" duration="41610000" />
     </task>
     <task id="LOCAL-00001" summary="push ok">
       <created>1571988039959</created>
@@ -340,7 +336,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149220000" />
+    <option name="totallyTimeSpent" value="172147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -355,14 +351,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.28308025" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31561822" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.23318872" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3470716" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.21583514" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2407809" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.24593717" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.18763557" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -395,10 +391,10 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sort/FirstBadVersion.java</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/src/midium_array_string/CoinChange.java</url>
+          <line>31</line>
           <properties />
-          <option name="timeStamp" value="17" />
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -413,48 +409,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/StringUTF16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="438" column="22" selection-start-line="438" selection-start-column="22" selection-end-line="438" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/StrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="812" selection-start-line="812" selection-end-line="812" />
-          <folding>
-            <element signature="e#24151#24152#0" expanded="true" />
-            <element signature="e#24191#24192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/RemoveNthFromEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="47" selection-start-line="32" selection-start-column="8" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/MergeTwoLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -693,17 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/MaxDepth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -715,13 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/IsValidBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="37" column="30" selection-start-line="25" selection-start-column="8" selection-end-line="37" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -829,12 +765,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/FirstBadVersion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="440">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
             <element signature="e#415#416#0" expanded="true" />
             <element signature="e#451#452#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/IsValidBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="41" lean-forward="true" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/SortedArrayToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/midium_array_string/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="26" column="83" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="26" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/midium_array_string/SetZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+          <folding>
+            <element signature="e#5155#5156#0" expanded="true" />
+            <element signature="e#5226#5227#0" expanded="true" />
+            <element signature="e#84849#84850#0" expanded="true" />
+            <element signature="e#84906#84907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/midium_array_string/CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="41" column="63" selection-start-line="41" selection-start-column="63" selection-end-line="41" selection-end-column="63" />
         </state>
       </provider>
     </entry>
