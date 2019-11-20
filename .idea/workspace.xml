@@ -2,12 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3af1fa23-21f2-47fc-b200-2cc39cb06ae0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dp/CanJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/LengthOfLIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/midium_array_string/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_string/medium/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/medium/IsHappy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/medium/MySqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/medium/TitleToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/medium/TrailingZeroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midium_array_string/CoinChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midium_array_string/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dp/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/CountPrimes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/Generate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/HammingDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/HammingWeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/IsPowerOfThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/IsValid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/MissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/ReverseBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/RomanToInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midium_array_string/GroupAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midium_array_string/SetZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midium_array_string/ThreeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/CountPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/CountPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/Generate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/Generate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/HammingDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/HammingDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/HammingWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/HammingWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/IsPowerOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/IsPowerOfThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/IsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/IsValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/ReverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/ReverseBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/RomanToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/RomanToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midium_array_string/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_string/medium/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midium_array_string/SetZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_string/medium/SetZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/midium_array_string/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_string/medium/ThreeSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +48,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/midium_array_string/GroupAnagrams.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/math/medium/IsHappy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+            <state relative-caret-position="180">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/math/medium/TrailingZeroes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/math/medium/TitleToNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/math/medium/MySqrt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="359" column="27" lean-forward="true" selection-start-line="359" selection-start-column="27" selection-end-line="359" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/StrictMath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="286" column="32" lean-forward="true" selection-start-line="286" selection-start-column="32" selection-end-line="286" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -45,13 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/string/StrStr.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/DeleteNode.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/RemoveNthFromEnd.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/ReverseList.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/MergeTwoLists.java" />
-        <option value="$PROJECT_DIR$/src/math/CountPrimes.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/IsPalindrome.java" />
         <option value="$PROJECT_DIR$/src/math/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/math/IsPowerOfThree.java" />
         <option value="$PROJECT_DIR$/src/math/RomanToInt.java" />
@@ -96,6 +173,13 @@
         <option value="$PROJECT_DIR$/src/midium_array_string/CanJump.java" />
         <option value="$PROJECT_DIR$/src/dp/CanJump.java" />
         <option value="$PROJECT_DIR$/src/midium_array_string/GroupAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/Example.java" />
+        <option value="$PROJECT_DIR$/src/midium_array_string/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/array_string/medium/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/math/medium/IsHappy.java" />
+        <option value="$PROJECT_DIR$/src/math/medium/TrailingZeroes.java" />
+        <option value="$PROJECT_DIR$/src/math/medium/TitleToNumber.java" />
+        <option value="$PROJECT_DIR$/src/math/medium/MySqrt.java" />
       </list>
     </option>
   </component>
@@ -116,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -129,11 +214,23 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,7 +244,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -166,13 +263,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GroupAnagrams">
-    <configuration name="CanJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.CanJump" />
+  <component name="RunManager" selected="Application.MySqrt">
+    <configuration name="IsHappy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.medium.IsHappy" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="math.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,21 +277,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.CoinChange" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midium_array_string.GroupAnagrams" />
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midium_array_string.LengthOfLongestSubstring" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -206,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.LengthOfLIS" />
+    <configuration name="MySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.medium.MySqrt" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="math.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +303,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midium_array_string.SetZeroes" />
+    <configuration name="TitleToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.medium.TitleToNumber" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="math.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrailingZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.medium.TrailingZeroes" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="math.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,19 +330,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SetZeroes" />
-      <item itemvalue="Application.CoinChange" />
-      <item itemvalue="Application.LengthOfLIS" />
-      <item itemvalue="Application.CanJump" />
-      <item itemvalue="Application.GroupAnagrams" />
+      <item itemvalue="Application.LengthOfLongestSubstring" />
+      <item itemvalue="Application.IsHappy" />
+      <item itemvalue="Application.TrailingZeroes" />
+      <item itemvalue="Application.TitleToNumber" />
+      <item itemvalue="Application.MySqrt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.CanJump" />
-        <item itemvalue="Application.LengthOfLIS" />
-        <item itemvalue="Application.CoinChange" />
-        <item itemvalue="Application.SetZeroes" />
+        <item itemvalue="Application.MySqrt" />
+        <item itemvalue="Application.TitleToNumber" />
+        <item itemvalue="Application.TrailingZeroes" />
+        <item itemvalue="Application.IsHappy" />
+        <item itemvalue="Application.LengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +368,8 @@
       <workItem from="1571987851654" duration="13564000" />
       <workItem from="1572263189230" duration="31778000" />
       <workItem from="1572869547256" duration="8009000" />
-      <workItem from="1572957295611" duration="51528000" />
+      <workItem from="1572957295611" duration="51594000" />
+      <workItem from="1574250955709" duration="9584000" />
     </task>
     <task id="LOCAL-00001" summary="push ok">
       <created>1571988039959</created>
@@ -284,12 +382,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182065000" />
+    <option name="totallyTimeSpent" value="191715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,7 +397,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.38828632" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.23861171" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35249457" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,159 +449,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/math/IsPowerOfThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="344" column="32" selection-start-line="344" selection-start-column="32" selection-end-line="344" selection-end-column="32" />
-          <folding>
-            <element signature="e#12873#12874#0" expanded="true" />
-            <element signature="e#12913#12914#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/IsValid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="40">
-            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/MissingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/HammingDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/HammingWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/RomanToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/Generate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/ReverseBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="80" selection-start-line="27" selection-start-column="80" selection-end-line="27" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Design/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14960">
-          <caret line="805" column="25" selection-start-line="805" selection-start-column="25" selection-end-line="805" selection-end-column="25" />
-          <folding>
-            <element signature="e#33242#33243#0" expanded="true" />
-            <element signature="e#33327#33328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="1223" column="19" selection-start-line="1223" selection-start-column="19" selection-end-line="1223" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp.java" />
-    <entry file="file://$PROJECT_DIR$/src/Design/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/ClimbStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/MaxProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="71" column="55" lean-forward="true" selection-start-line="71" selection-start-column="55" selection-end-line="71" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/MaxSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/UniquePaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -695,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/midium_array_string/ThreeSum.java">
+    <entry file="file://$PROJECT_DIR$/src/array_string/medium/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="26" column="83" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="26" selection-end-column="83" />
@@ -705,7 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/midium_array_string/SetZeroes.java">
+    <entry file="file://$PROJECT_DIR$/src/array_string/medium/SetZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
@@ -749,17 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="1542" column="15" selection-start-line="1542" selection-start-column="15" selection-end-line="1542" selection-end-column="15" />
-          <folding>
-            <element signature="e#61262#61263#0" expanded="true" />
-            <element signature="e#61299#61300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -771,10 +706,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/midium_array_string/GroupAnagrams.java">
+    <entry file="file://$PROJECT_DIR$/src/array_string/medium/GroupAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
+        <state relative-caret-position="216">
           <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="1867" column="13" selection-start-line="1867" selection-start-column="13" selection-end-line="1867" selection-end-column="13" />
+          <folding>
+            <element signature="e#61262#61263#0" expanded="true" />
+            <element signature="e#61299#61300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/medium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_string/medium/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/CountPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/Generate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/HammingDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/IsPowerOfThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/IsValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/MissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/ReverseBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/RomanToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/simple/HammingWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/medium/IsHappy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/medium/TrailingZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/medium/TitleToNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/medium/MySqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="359" column="27" lean-forward="true" selection-start-line="359" selection-start-column="27" selection-end-line="359" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="286" column="32" lean-forward="true" selection-start-line="286" selection-start-column="32" selection-end-line="286" selection-end-column="32" />
         </state>
       </provider>
     </entry>
