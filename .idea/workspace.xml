@@ -2,39 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3af1fa23-21f2-47fc-b200-2cc39cb06ae0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_string/medium/LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/medium/IsHappy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/medium/MySqrt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/medium/TitleToNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/medium/TrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/medium/MyPow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/CountPrimes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/FizzBuzz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/Generate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/HammingDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/HammingWeight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/IsPowerOfThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/IsValid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/MissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/ReverseBits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/RomanToInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midium_array_string/GroupAnagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midium_array_string/SetZeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/midium_array_string/ThreeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/CountPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/CountPrimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/Generate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/Generate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/HammingDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/HammingDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/HammingWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/HammingWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/IsPowerOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/IsPowerOfThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/IsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/IsValid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/ReverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/ReverseBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/RomanToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/simple/RomanToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midium_array_string/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_string/medium/GroupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midium_array_string/SetZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_string/medium/SetZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midium_array_string/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_string/medium/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/medium/MySqrt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/math/medium/MySqrt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/medium/MySqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/medium/MySqrt.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/medium/IsHappy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="160">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/math/medium/TrailingZeroes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -73,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/math/medium/TitleToNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -81,26 +52,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/medium/MySqrt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="359" column="27" lean-forward="true" selection-start-line="359" selection-start-column="27" selection-end-line="359" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/StrictMath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="286" column="32" lean-forward="true" selection-start-line="286" selection-start-column="32" selection-end-line="286" selection-end-column="32" />
+            <state relative-caret-position="363">
+              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,8 +65,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="340">
+              <caret line="17" column="83" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="17" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/math/medium/MyPow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="30" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -129,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/math/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/math/IsPowerOfThree.java" />
         <option value="$PROJECT_DIR$/src/math/RomanToInt.java" />
         <option value="$PROJECT_DIR$/src/math/HammingWeight.java" />
@@ -180,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/math/medium/TrailingZeroes.java" />
         <option value="$PROJECT_DIR$/src/math/medium/TitleToNumber.java" />
         <option value="$PROJECT_DIR$/src/math/medium/MySqrt.java" />
+        <option value="$PROJECT_DIR$/src/math/medium/MyPow.java" />
       </list>
     </option>
   </component>
@@ -200,8 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +195,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MySqrt">
+  <component name="RunManager" selected="Application.MyPow">
     <configuration name="IsHappy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.medium.IsHappy" />
       <module name="leetcode" />
@@ -277,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midium_array_string.LengthOfLongestSubstring" />
+    <configuration name="MyPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.medium.MyPow" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="midium_array_string.*" />
+          <option name="PATTERN" value="math.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,19 +296,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LengthOfLongestSubstring" />
       <item itemvalue="Application.IsHappy" />
       <item itemvalue="Application.TrailingZeroes" />
       <item itemvalue="Application.TitleToNumber" />
       <item itemvalue="Application.MySqrt" />
+      <item itemvalue="Application.MyPow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyPow" />
         <item itemvalue="Application.MySqrt" />
         <item itemvalue="Application.TitleToNumber" />
         <item itemvalue="Application.TrailingZeroes" />
         <item itemvalue="Application.IsHappy" />
-        <item itemvalue="Application.LengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +335,8 @@
       <workItem from="1572263189230" duration="31778000" />
       <workItem from="1572869547256" duration="8009000" />
       <workItem from="1572957295611" duration="51594000" />
-      <workItem from="1574250955709" duration="9584000" />
+      <workItem from="1574250955709" duration="9800000" />
+      <workItem from="1574339682706" duration="6450000" />
     </task>
     <task id="LOCAL-00001" summary="push ok">
       <created>1571988039959</created>
@@ -382,13 +349,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191715000" />
+    <option name="totallyTimeSpent" value="198381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,8 +364,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.23861171" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35249457" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2483731" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.14750542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -436,6 +403,12 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/math/medium/MySqrt.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -449,30 +422,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dp/UniquePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/MinPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dp/Rob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/LittleSoldier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -724,13 +673,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/medium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/medium.java" />
     <entry file="file://$PROJECT_DIR$/src/array_string/medium/LengthOfLongestSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -816,53 +759,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/math/medium/IsHappy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="160">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/math/medium/TrailingZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/math/medium/TitleToNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/jdk/internal/HotSpotIntrinsicCandidate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="123" column="18" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/math/medium/MySqrt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="363">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/Math.java">
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/FdLibm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="359" column="27" lean-forward="true" selection-start-line="359" selection-start-column="27" selection-end-line="359" selection-end-column="27" />
+        <state relative-caret-position="-390">
+          <caret line="345" column="38" selection-start-line="345" selection-start-column="38" selection-end-line="345" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/StrictMath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="286" column="32" lean-forward="true" selection-start-line="286" selection-start-column="32" selection-end-line="286" selection-end-column="32" />
+        <state relative-caret-position="230">
+          <caret line="650" column="30" selection-start-line="650" selection-start-column="30" selection-end-line="650" selection-end-column="30" />
+          <folding>
+            <element signature="e#25999#26000#0" expanded="true" />
+            <element signature="e#26046#26047#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="666" column="28" selection-start-line="666" selection-start-column="28" selection-end-line="666" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="83" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="17" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/medium/MyPow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="30" selection-end-column="34" />
         </state>
       </provider>
     </entry>
