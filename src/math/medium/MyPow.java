@@ -21,7 +21,6 @@ public class MyPow {
     }
 
     // 其实好像也不需要存储,这个想法太强了,快速幂思想
-    // 我觉得这里如果用double数组存储计算过的幂,会不会更快呢
     public double myPow2(double x, int n) {
         if (n == 0) { return 1; }
         if (n == 1) { return x; }
