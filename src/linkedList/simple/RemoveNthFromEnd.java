@@ -1,7 +1,8 @@
-package linkedList;
+package linkedList.simple;
 
 import com.sun.nio.sctp.SctpChannel;
 import com.sun.nio.sctp.SendFailedNotification;
+import linkedList.ListNode;
 
 public class RemoveNthFromEnd {
 

@@ -1,4 +1,6 @@
-package linkedList;
+package linkedList.simple;
+
+import linkedList.ListNode;
 
 import java.util.HashSet;
 import java.util.Set;
