@@ -59,6 +59,26 @@ public class GetIntersectionNode {
         return ans;
     }
 
+    /**
+     * 这个双指针法比较妙,妙啊,妙啊.
+     * 相当于在每个链表后面"再"接了另一个链表,这样遍历到后面就消除了长度差异,直接看例子,括号里为接上对方链表
+     * 链表1: 1 2 3 4 5 (8 4 5)
+     * 链表2: 8 4 5 (1 2 3 4 5)
+     * 最后会一起到末尾,很方便地判断是否有重叠,就算没有重叠也会都为null,然后退出
+     * @param headA
+     * @param headB
+     * @return
+     */
+    public ListNode getIntersectionNode2(ListNode headA, ListNode headB) {
+        if (headA == null || headB == null) return null;
+        ListNode pA = headA, pB = headB;
+        while (pA != pB) {
+            pA = pA == null ? headB : pA.next;
+            pB = pB == null ? headA : pB.next;
+        }
+        return pA;
+    }
+
     public static void main(String[] args) {
 
         ListNode root = new ListNode(0);
