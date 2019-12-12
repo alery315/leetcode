@@ -1,3 +1,3 @@
 # leetcode
 
-leetcode example
+record leetcode 
