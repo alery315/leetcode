@@ -45,10 +45,7 @@ public class CoinChange {
     public static void main(String[] args) {
         int[] nums = {1, 2, 5};
         int result = new CoinChange().coinChange2(nums, 11);
-
         System.out.println(result);
-
-
     }
 
 }

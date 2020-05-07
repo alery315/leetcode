@@ -6,12 +6,22 @@ public class IsValidBST {
     public boolean flag = true;
 
     public boolean isValidBST(TreeNode root) {
-        if (root == null) return true;
+//        if (root == null) return true;
 //        dfs(root, null, null);
 //        return flag;
         return dfs2(root, null, null);
     }
+    public  boolean dfs2(TreeNode root, Integer lower, Integer higher) {
+//        if (!flag) return;
+        if (root == null) return true;
+        if (lower != null && root.val <= lower) return false;
+        if (higher!= null && root.val >= higher) return false;
 
+        if (! dfs2(root.left, lower, root.val)) return false;
+        if (! dfs2(root.right, root.val, higher)) return false;
+
+        return true;
+    }
 
     public  void dfs(TreeNode root, Integer lower, Integer higher) {
 //        if (!flag) return;
@@ -25,19 +35,6 @@ public class IsValidBST {
         if (root.right != null) dfs(root.right, root.val, higher);
 
     }
-
-    public  boolean dfs2(TreeNode root, Integer lower, Integer higher) {
-//        if (!flag) return;
-        if (root == null) return true;
-        if (lower != null && root.val <= lower) return false;
-        if (higher!= null && root.val >= higher) return false;
-
-        if (! dfs2(root.left, lower, root.val)) return false;
-        if (! dfs2(root.right, root.val, higher)) return false;
-
-        return true;
-    }
-
 
     public static void main(String[] args) {
 

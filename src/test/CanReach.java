@@ -8,10 +8,18 @@ public class CanReach {
 
     public boolean flag = false;
 
+    public CanReach() {
+        System.out.println("can reach");
+    }
+
+    public CanReach(boolean flag) {
+        this.flag = flag;
+    }
+
     public boolean canReach(int[] arr, int start) {
 
         int[] visited = new int[arr.length];
-
+        System.out.println("yes i can");
         dfs(arr, start, visited);
 
         return flag;

@@ -60,7 +60,7 @@ public class Rob {
 
         System.out.println(rob(nums));
 
-        solve(nums.length - 1, nums);
+//        solve(nums.length - 1, nums);
 
         System.out.println(rob2(nums));
 

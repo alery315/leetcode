@@ -1,7 +1,10 @@
 package array;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ThreadPoolExecutor;
 
 /**
  * @Description
@@ -37,10 +40,11 @@ public class Intersect {
             }
         }
 
+
+
         int[] t = new int[count];
 
         System.arraycopy(result,0,t,0,count);
-
 
         return t;
     }

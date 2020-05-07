@@ -6,7 +6,7 @@ public class RotateMatrix {
         int m = matrix.length;
         // 首先转置矩阵
         for (int i = 0; i < m; i++) {
-            for (int j = i; j < m; j++) {
+            for (int j = i + 1; j < m; j++) {
                 if (matrix[i][j] == matrix[j][i]) continue;
                 matrix[i][j] = matrix[i][j] ^ matrix[j][i];
                 matrix[j][i] = matrix[i][j] ^ matrix[j][i];
