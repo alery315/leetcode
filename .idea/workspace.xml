@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3af1fa23-21f2-47fc-b200-2cc39cb06ae0" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/offer/BuildTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/CQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/CStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/GetNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/TreeLinkNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3af1fa23-21f2-47fc-b200-2cc39cb06ae0" name="Default Changelist" comment="2020-6-15 nums: 147">
+      <change afterPath="$PROJECT_DIR$/src/linkedList/Holder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/ReverseKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/offer/FindNumberIn2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/offer/FindNumberIn2DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array_string/medium/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_string/medium/LengthOfLongestSubstring.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,66 +27,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BuildTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer/BuildTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer/CQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="31" column="9" selection-start-line="6" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetNext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer/GetNext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="35" column="28" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="35" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer/CStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="32" column="19" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="32" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
-                <element signature="e#1010#1011#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fib.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/offer/Fib.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -122,6 +61,7 @@
       <find>count</find>
       <find>CountDownLatch</find>
       <find>resize</find>
+      <find>java</find>
     </findStrings>
     <dirStrings>
       <dir>E:\java web\leetcode\src\niuke</dir>
@@ -130,131 +70,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/leetcode/ProductExceptSelf.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/MajorityElement.java" />
-        <option value="$PROJECT_DIR$/src/dp/IntegerBreak.java" />
-        <option value="$PROJECT_DIR$/src/dp/NumSquares.java" />
-        <option value="$PROJECT_DIR$/src/dp/WiggleMaxLength.java" />
-        <option value="$PROJECT_DIR$/src/dp/LongestCommonSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/tree/GenerateTrees.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Main21.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Main.java" />
-        <option value="$PROJECT_DIR$/src/niuke/MinDiffSum.java" />
-        <option value="$PROJECT_DIR$/src/niuke/EqualDiffArray.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Main11.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Main2.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Main12.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Main14.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Main13.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Sim_Stack.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Queue_Stack.java" />
-        <option value="$PROJECT_DIR$/src/niuke/ContactString.java" />
-        <option value="$PROJECT_DIR$/src/test/SemaphoreExample.java" />
-        <option value="$PROJECT_DIR$/src/test/CountdownLatchExample.java" />
-        <option value="$PROJECT_DIR$/src/test/CyclicBarrierExample.java" />
-        <option value="$PROJECT_DIR$/src/test/ProducerConsumer.java" />
-        <option value="$PROJECT_DIR$/src/test/CanReach.java" />
-        <option value="$PROJECT_DIR$/src/test/ReflectTest.java" />
-        <option value="$PROJECT_DIR$/src/baidu/Main.java" />
-        <option value="$PROJECT_DIR$/src/baidu/Main3.java" />
-        <option value="$PROJECT_DIR$/src/baidu/Main2.java" />
-        <option value="$PROJECT_DIR$/src/alibaba/OddEvenThread.java" />
-        <option value="$PROJECT_DIR$/src/alibaba/Abababab.java" />
-        <option value="$PROJECT_DIR$/src/alibaba/User.java" />
-        <option value="$PROJECT_DIR$/src/alibaba/Init.java" />
-        <option value="$PROJECT_DIR$/src/alibaba/ClassLoad.java" />
-        <option value="$PROJECT_DIR$/src/alibaba/Learn.java" />
-        <option value="$PROJECT_DIR$/src/alibaba/MinDiffSum2.java" />
-        <option value="$PROJECT_DIR$/src/alibaba/MinHeap.java" />
-        <option value="$PROJECT_DIR$/src/wangyi/Main.java" />
-        <option value="$PROJECT_DIR$/src/niuke/Stack_queue.java" />
-        <option value="$PROJECT_DIR$/src/alibaba/Tx3.java" />
-        <option value="$PROJECT_DIR$/src/offer/Duplicate.java" />
-        <option value="$PROJECT_DIR$/src/offer/FindNumberIn2DArray.java" />
-        <option value="$PROJECT_DIR$/src/offer/ReplaceSpace.java" />
-        <option value="$PROJECT_DIR$/src/offer/ReversePrint.java" />
-        <option value="$PROJECT_DIR$/src/offer/BuildTree.java" />
-        <option value="$PROJECT_DIR$/src/offer/CQueue.java" />
-        <option value="$PROJECT_DIR$/src/offer/TreeLinkNode.java" />
-        <option value="$PROJECT_DIR$/src/tree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/offer/GetNext.java" />
-        <option value="$PROJECT_DIR$/src/offer/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/offer/CStack.java" />
-        <option value="$PROJECT_DIR$/src/offer/Fib.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="455" />
-    <option name="y" value="10" />
-    <option name="width" value="1380" />
-    <option name="height" value="1015" />
-  </component>
+  <component name="ProjectId" id="1g0A6NQFYkbB3a7cdACX20DWXQS" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568721480665" />
-    <property name="last_opened_file_path" value="E:/meituan/recommend-biz-supply" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -263,86 +106,90 @@
       <recent name="tree" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Fib">
-    <configuration name="BuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.BuildTree" />
+  <component name="RunManager" selected="Application.ThreeSum">
+    <configuration name="GetIntersectionNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiuzhao_learn.GetIntersectionNode" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="qiuzhao_learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="CQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.CQueue" />
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiuzhao_learn.LRUCache" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="qiuzhao_learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="CStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.CStack" />
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiuzhao_learn.LengthOfLongestSubstring" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="qiuzhao_learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.Fib" />
+    <configuration name="ReverseKGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiuzhao_learn.ReverseKGroup" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="qiuzhao_learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="FindNumberIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.FindNumberIn2DArray" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiuzhao_learn.ThreeSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="qiuzhao_learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindNumberIn2DArray" />
-      <item itemvalue="Application.BuildTree" />
-      <item itemvalue="Application.CQueue" />
-      <item itemvalue="Application.CStack" />
-      <item itemvalue="Application.Fib" />
+      <item itemvalue="Application.ReverseKGroup" />
+      <item itemvalue="Application.LengthOfLongestSubstring" />
+      <item itemvalue="Application.LRUCache" />
+      <item itemvalue="Application.GetIntersectionNode" />
+      <item itemvalue="Application.ThreeSum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fib" />
-        <item itemvalue="Application.CStack" />
-        <item itemvalue="Application.CQueue" />
-        <item itemvalue="Application.BuildTree" />
-        <item itemvalue="Application.FindNumberIn2DArray" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.GetIntersectionNode" />
+        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.LengthOfLongestSubstring" />
+        <item itemvalue="Application.ReverseKGroup" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator.SC-201901012010\AppData\Roaming\Subversion</configuration>
   </component>
@@ -413,7 +260,29 @@
       <workItem from="1590848803346" duration="832000" />
       <workItem from="1591019727078" duration="2160000" />
       <workItem from="1591158825928" duration="20000" />
-      <workItem from="1592205489142" duration="8611000" />
+      <workItem from="1592205489142" duration="9283000" />
+      <workItem from="1592391301777" duration="1198000" />
+      <workItem from="1594720709309" duration="624000" />
+      <workItem from="1595922386575" duration="6369000" />
+      <workItem from="1596006267150" duration="19060000" />
+      <workItem from="1596077639611" duration="9013000" />
+      <workItem from="1596444210099" duration="599000" />
+      <workItem from="1597240072012" duration="864000" />
+      <workItem from="1597240964552" duration="31000" />
+      <workItem from="1597241047688" duration="6000" />
+      <workItem from="1597241084217" duration="145000" />
+      <workItem from="1597241297504" duration="106000" />
+      <workItem from="1597241443814" duration="10000" />
+      <workItem from="1597241487839" duration="345000" />
+      <workItem from="1597241965138" duration="4000" />
+      <workItem from="1250087639695" duration="54000" />
+      <workItem from="1597242960197" duration="15000" />
+      <workItem from="1597243078880" duration="47000" />
+      <workItem from="1597243172872" duration="637000" />
+      <workItem from="1597245016422" duration="39000" />
+      <workItem from="1597245076695" duration="12000" />
+      <workItem from="1597245198512" duration="3373000" />
+      <workItem from="1597286189927" duration="7191000" />
     </task>
     <task id="LOCAL-00001" summary="push ok">
       <created>1571988039959</created>
@@ -422,57 +291,73 @@
       <option name="project" value="LOCAL" />
       <updated>1571988039959</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2020-6-15 nums: 147">
+      <created>1592230226384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592230226385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="358366000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.18906942" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.24593717" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.41358936" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.43722305" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.20375335" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" sideWeight="0.50073856" side_tool="true" weight="0.1802949" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40472674" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Maven" order="9" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="push ok" />
+    <MESSAGE value="2020-6-15 nums: 147" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-6-15 nums: 147" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="647" y="273" key="#Notifications" timestamp="1597243095746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="273" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1597243095746" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1597245430517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597245430517" />
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom" timestamp="1597317474891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597317474891" />
+    <state width="1493" height="124" key="GridCell.Tab.0.center" timestamp="1597317474891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597317474891" />
+    <state width="1493" height="124" key="GridCell.Tab.0.left" timestamp="1597317474891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597317474891" />
+    <state width="1493" height="124" key="GridCell.Tab.0.right" timestamp="1597317474891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597317474891" />
+    <state width="1493" height="124" key="GridCell.Tab.1.bottom" timestamp="1597317474892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597317474892" />
+    <state width="1493" height="124" key="GridCell.Tab.1.center" timestamp="1597317474892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597317474892" />
+    <state width="1493" height="124" key="GridCell.Tab.1.left" timestamp="1597317474891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597317474891" />
+    <state width="1493" height="124" key="GridCell.Tab.1.right" timestamp="1597317474892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597317474892" />
+    <state x="238" y="0" key="SettingsEditor" timestamp="1597246159166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="238" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597246159166" />
+    <state x="170" y="10" key="new project wizard" timestamp="1597306019994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="170" y="10" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1597306019994" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -480,107 +365,114 @@
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url />
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/dp/CoinChange.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/dp/MaxSubArray.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/FindKthLargest.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/niuke/Main13.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/baidu/Main2.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alibaba/Learn.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/alibaba/MinHeap.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/offer/FindNumberIn2DArray.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/offer/BuildTree.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/offer/CQueue.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/offer/CStack.java</url>
           <line>58</line>
-          <properties />
           <option name="timeStamp" value="84" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao_learn/FindKthLargest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao_learn/QuickSort.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao_learn/LengthOfLongestSubstring.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao_learn/LRUCache.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qiuzhao_learn/ThreeSum.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="85" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -607,273 +499,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/offer/BuildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/BuildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/Duplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/FindNumberIn2DArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="21" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/ReplaceSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/ReversePrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/Duplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/FindNumberIn2DArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="21" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/ReplaceSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/ReversePrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/ReversePrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/ReplaceSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/FindNumberIn2DArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="21" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/Duplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/BuildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/CQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="31" column="9" selection-start-line="6" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/TreeLinkNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/GetNext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="35" column="28" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="35" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/CStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="32" column="19" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="32" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#1010#1011#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/Fib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leetcode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

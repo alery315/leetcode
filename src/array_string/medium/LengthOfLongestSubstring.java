@@ -39,7 +39,7 @@ public class LengthOfLongestSubstring {
         for (int i = 0; i < s.length(); i++) {
             if (map.containsKey(s.charAt(i))) {
 //                System.out.println(left + ":" + (map.get(s.charAt(i)) + 1 + ":" + s.charAt(i)));
-                left = Math.max(map.get(s.charAt(i)) + 1,left);
+                left = Math.max(map.get(s.charAt(i)) + 1, left);
             }
             map.put(s.charAt(i), i);
             ans = Math.max(ans, i - left + 1);
@@ -54,12 +54,12 @@ public class LengthOfLongestSubstring {
         int leftIndex = 0;
         char[] ss = s.toCharArray();
 
-        for(int i=0;i<ss.length;i++){
+        for (int i = 0; i < ss.length; i++) {
             //与当前维护的字符串内容对比
-            for(int inIndex = leftIndex; inIndex < i; inIndex ++){
+            for (int inIndex = leftIndex; inIndex < i; inIndex++) {
                 // 假如当前字符与之前的字符串中的字符重复了,把leftIndex置为原串坐标+1,
                 // 并判断是否更新最长值,然后break进入下一循环
-                if(ss[inIndex] == ss[i]){
+                if (ss[inIndex] == ss[i]) {
                     maxCount = Math.max(maxCount, i - leftIndex);
                     leftIndex = inIndex + 1;
                     break;
