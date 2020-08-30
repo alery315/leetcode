@@ -1,9 +1,7 @@
 package qiuzhao_learn;
 
-import linkedList.Holder;
+import linkedList.ListNodeHolder;
 import linkedList.ListNode;
-
-import java.io.PrintStream;
 
 /**
  * @author alery
@@ -52,7 +50,7 @@ public class ReverseKGroup {
     }
 
     public static void main(String[] args) {
-        ListNode head = Holder.getInstance();
+        ListNode head = ListNodeHolder.getInstance();
         ListNode head2 = new ReverseKGroup().reverseKGroup(head, 5);
         System.out.println(head2.val);
     }

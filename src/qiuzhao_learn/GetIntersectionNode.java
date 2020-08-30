@@ -1,6 +1,6 @@
 package qiuzhao_learn;
 
-import linkedList.Holder;
+import linkedList.ListNodeHolder;
 import linkedList.ListNode;
 
 /**
@@ -49,7 +49,7 @@ public class GetIntersectionNode {
 
     public static void main(String[] args) {
 
-        new GetIntersectionNode().getIntersectionNode(Holder.getInstance(), Holder.getInstance());
+        new GetIntersectionNode().getIntersectionNode(ListNodeHolder.getInstance(), ListNodeHolder.getInstance());
     }
 
 }

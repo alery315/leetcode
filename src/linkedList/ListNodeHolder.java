@@ -5,7 +5,7 @@ package linkedList;
  * @Description
  * @create 2020-07-29 20:38
  */
-public class Holder {
+public class ListNodeHolder {
     public static ListNode head;
 
     public static ListNode getInstance() {
