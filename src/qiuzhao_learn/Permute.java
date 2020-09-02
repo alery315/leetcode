@@ -29,11 +29,10 @@ public class Permute {
             return;
         }
 
-        int p = begin;
         for (int i = begin; i < end; i++) {
-            swap(nums, p, i);
+            swap(nums, begin, i);
             dfs(nums, begin + 1, end, res);
-            swap(nums, p, i);
+            swap(nums, begin, i);
         }
 
     }
@@ -45,7 +44,7 @@ public class Permute {
     }
 
     public static void main(String[] args) {
-        new Permute().permute(new int[]{1, 2, 3, 4});
+        new Permute().permute(new int[]{1, 2, 3});
     }
 
 }
