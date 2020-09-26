@@ -20,73 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3af1fa23-21f2-47fc-b200-2cc39cb06ae0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Aiqiyi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Aiqiyi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Aiqiyi3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Ali1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Ali2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Baidu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Bilibili.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Bingo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Cucc1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Duxiaoman1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Duxiaoman2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Guanglianda1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Guanglianda3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/JD1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/JD2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Jinshanyun1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Jinshanyun2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Meituan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Qunaer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Shence1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Shence2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Shence3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Sina1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Sina2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Tx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Vivo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Wangyi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Wangyi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Wangyi3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Wangyi4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Xiaohongshu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Xiaohongshu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Xiaohongshu3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Xiaomi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Xiaomi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Xiaomi22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Yuanfudao1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Yuanfudao2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishi/Yuanfudao3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_demo/ReturnDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_demo/ThreadPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/Codec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/FindFirstCommonNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/FindKth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/HasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/KthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/LRUDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/LongestPalindromeSubseq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/LongestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/SmallestK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/ThreeOrders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qiuzhao_learn/Yuanfudao1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/math/medium/MySqrt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/math/medium/MySqrt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/tree/BuildTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/BuildTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/tree/PreorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/PreorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/ListNodeHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/ListNodeHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/medium/MySqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/medium/MySqrt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qiuzhao_learn/Exist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qiuzhao_learn/Exist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qiuzhao_learn/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qiuzhao_learn/LengthOfLongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qiuzhao_learn/SpiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qiuzhao_learn/SpiralOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/BuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BuildTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/PreorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/TreeNodeHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/TreeNodeHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/qiuzhao_learn/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qiuzhao_learn/KthLargest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -371,6 +305,7 @@
       <workItem from="1600934579059" duration="4142000" />
       <workItem from="1601018351156" duration="2823000" />
       <workItem from="1601089485061" duration="1066000" />
+      <workItem from="1601110501309" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="push ok">
       <created>1571988039959</created>
@@ -407,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599054124076</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020-09-26 nums: 163">
+      <created>1601110625760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601110625760</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +373,8 @@
     <MESSAGE value="2020-08-13 nums: 150" />
     <MESSAGE value="2020-08-30 nums: 154" />
     <MESSAGE value="2020-09-01 nums: 157" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-09-01 nums: 157" />
+    <MESSAGE value="2020-09-26 nums: 163" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-09-26 nums: 163" />
   </component>
   <component name="WindowStateProjectService">
     <state x="619" y="263" key="#Notifications" timestamp="1597581708295">

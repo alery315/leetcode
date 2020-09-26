@@ -14,7 +14,8 @@ public class KthLargest {
     public static int cnt = 0;
     public static int res = 0;
 
-    public static int kthLargest(TreeNode root, int k) {
+    public int kthLargest(TreeNode root, int k) {
+        cnt = k;
         dfs(root, k);
         return res;
     }
@@ -23,10 +24,9 @@ public class KthLargest {
         if (root == null) {
             return;
         }
+        if (cnt == 0) return;
         dfs(root.right, k);
-        if (cnt == k) return;
-        cnt++;
-        if (cnt == k) {
+        if (--cnt == 0) {
             res = root.val;
         }
         dfs(root.left, k);
