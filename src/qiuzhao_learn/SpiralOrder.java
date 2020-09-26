@@ -2,6 +2,7 @@ package qiuzhao_learn;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 /**
  * @Desc:
@@ -58,10 +59,34 @@ public class SpiralOrder {
     }
 
     public static void main(String[] args) {
-        new SpiralOrder().spiralOrder(new int[][]{
-                {1, 2, 3, 4, 5}, {6, 7, 8, 9, 10}, {11, 12, 13, 14, 15}, {16, 17, 18, 19, 20}, {21, 22, 23, 24, 25}}
-        );
+        // [[1, 2, 3],[4 ,5 ,6],[7, 8,9]]
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        String new_s = s.replace("[", "");
+        int m = s.length() - new_s.length() - 1;
+        if (m == 0) {
+            System.out.println("[]");
+            System.exit(0);
+        }
+        new_s = new_s.replace(" ", "");
+        new_s = new_s.replace("]", "");
+        int n = (new_s.length() + 1) / 2 / m;
+        int[][] nums = new int[m][n];
+        String[] strings = new_s.split(",");
+        int cnt = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                nums[i][j] = Integer.parseInt(strings[cnt++]);
+            }
+        }
+        List<Integer> list = new SpiralOrder().spiralOrder(nums);
+        System.out.print("[");
+        for (int i = 0; i < list.size()-1; i++) {
+            System.out.print(list.get(i) + ",");
+        }
+        if (list.size() > 1) {
+            System.out.print(list.get(list.size() - 1));
+        }
+        System.out.print("]");
     }
-
-
 }

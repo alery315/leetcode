@@ -24,4 +24,20 @@ public class TreeNodeHolder {
         root2.right = root4;
         return root;
     }
+
+    public static TreeNode getInstance2() {
+        TreeNode root = new TreeNode(1);
+        TreeNode root1 = new TreeNode(0);
+        TreeNode root2 = new TreeNode(1);
+        TreeNode root3 = new TreeNode(0);
+        TreeNode root4 = new TreeNode(0);
+
+        root.left = root1;
+        root.right = root2;
+
+        root1.left = root3;
+        root1.right = root4;
+        return root;
+    }
+
 }

@@ -1,8 +1,9 @@
 package tree;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
+import niuke.ListNode;
+import sun.reflect.generics.tree.Tree;
+
+import java.util.*;
 
 /**
  * @auther alery
@@ -31,6 +32,51 @@ public class PreorderTraversal {
         return list;
     }
 
+    public List<Integer> pre(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        if (root == null) {
+            return list;
+        }
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode cur = root;
+        while (!stack.isEmpty() || cur != null) {
+            while (cur != null) {
+                list.add(cur.val);
+                stack.push(cur);
+                cur = cur.left;
+            }
+            cur = stack.pop();
+//            list.add(cur.val);
+            cur = cur.right;
+        }
+        return list;
+    }
+
+    public List<Integer> last(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        if (root == null) {
+            return list;
+        }
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode cur = root;
+        stack.push(root);
+        while (!stack.isEmpty()) {
+            cur = stack.pop();
+            if (cur != null) {
+                list.add(cur.val);
+            }
+            if (cur.left != null) {
+                stack.push(cur.left);
+            }
+            if (cur.right != null) {
+                stack.push(cur.right);
+            }
+        }
+        Collections.reverse(list);
+        return list;
+    }
+
+
     public static void main(String[] args) {
 
         TreeNode root = new TreeNode(1);
@@ -50,7 +96,7 @@ public class PreorderTraversal {
         root2.right = root6;
 
 
-        List<Integer> list = new PreorderTraversal().preorderTraversal(root);
+        List<Integer> list = new PreorderTraversal().last(root);
         for (Integer integer : list) {
             System.out.println(integer);
         }

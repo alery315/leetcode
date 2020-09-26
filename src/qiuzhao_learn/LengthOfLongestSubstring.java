@@ -47,11 +47,30 @@ public class LengthOfLongestSubstring {
         return Math.max(maxCount, ss.length - leftIndex);
     }
 
+    public int lengthOfLongestSubstring4(String s) {
+        int maxCount = 0;
+        int leftIndex = 0;
+//        char[] ss = s.toCharArray();
+
+        for (int i = 0; i < s.length(); i++) {
+            //与当前维护的字符串内容对比
+            for (int inIndex = leftIndex; inIndex < i; inIndex++) {
+                // 假如当前字符与之前的字符串中的字符重复了,把leftIndex置为原串坐标+1,
+                // 并判断是否更新最长值,然后break进入下一循环
+                if (s.charAt(inIndex) == s.charAt(i)) {
+                    maxCount = Math.max(maxCount, i - leftIndex);
+                    leftIndex = inIndex + 1;
+                    break;
+                }
+            }
+        }
+        return Math.max(maxCount, s.length() - leftIndex);
+    }
+
     public static void main(String[] args) {
-        String s = "abba";
-        lengthOfLongestSubstring(s);
+        String s = "pwwkew";
+//        lengthOfLongestSubstring(s);
         LengthOfLongestSubstring substring = new LengthOfLongestSubstring();
         substring.lengthOfLongestSubstring3(s);
     }
-
 }

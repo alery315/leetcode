@@ -49,10 +49,10 @@ public class BuildTree {
         root2.left = root3;
         root2.right = root4;
 
-//        int[] nums1 = {3, 9, 20, 15, 7};
-        int[] nums1 = {1,2};
-//        int[] nums2 = {7, 3, 15, 20, 7};
-        int[] nums2 = {2,1};
+        int[] nums1 = {3, 9, 20, 15, 7};
+//        int[] nums1 = {1,2};
+        int[] nums2 = {7, 3, 15, 20, 7};
+//        int[] nums2 = {2,1};
 
         TreeNode node = new BuildTree().buildTree(nums1, nums2);
 

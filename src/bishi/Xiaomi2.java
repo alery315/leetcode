@@ -1,8 +1,6 @@
-package qiuzhao_learn;
+package bishi;
 
-import sun.nio.cs.FastCharsetProvider;
-
-import java.awt.geom.FlatteningPathIterator;
+import java.util.Scanner;
 
 /**
  * @Desc:
@@ -11,7 +9,7 @@ import java.awt.geom.FlatteningPathIterator;
  * @Version 1.0
  */
 
-public class Exist {
+public class Xiaomi2 {
     public static boolean exist(char[][] board, String word) {
         if (board.length < 1) return false;
         int m = board.length;
@@ -82,15 +80,14 @@ public class Exist {
     }
 
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
         char[][] board = {
                 {'A', 'B', 'C', 'E'},
                 {'S', 'F', 'C', 'S'},
                 {'A', 'D', 'E', 'E'}
         };
-        System.out.println(new Exist().exist(board, "ABCCED"));
-        System.out.println(new Exist().exist(board, "SEE"));
-        System.out.println(new Exist().exist(board, "ABCB"));
-        System.out.println(new Exist().exist(board, "ABCCEDAS"));
+
 
     }
 }
